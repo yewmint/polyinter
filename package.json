@@ -1,0 +1,17 @@
+{
+  "name": "polyinter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "polyinter.html",
+  "dependencies": {
+    "coffee-loader": "^0.7.3",
+    "coffee-script": "^1.12.4",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "webpack"
+  },
+  "author": "yewmint",
+  "license": "ISC"
+}
